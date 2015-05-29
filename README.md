@@ -1,5 +1,5 @@
 # AngularJS_Flickr_API
-Angular JS FLickr API that's acts as a crawler for searching images from yahoo's flickr service
+Angular JS Flickr API that's acts as a crawler for searching images from yahoo's flickr service
 
 Clone this repository in your desktop.
 Run this app from any server and you may see a search page.
